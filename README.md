@@ -80,6 +80,11 @@ En otras palabras, seguirás afianzando todo lo aprendido hasta el momento, pero
 - [ ] Sass
 - [ ] Maquetación
 
+### Frontend Development
+
+- [ ] Componentes
+- [ ] Manejo del estado
+
 ### DOM y Web APIs
 - [ ] Manipulación dinámica del DOM
 - [ ] Data attributes
@@ -101,13 +106,21 @@ En otras palabras, seguirás afianzando todo lo aprendido hasta el momento, pero
 - [ ] Testeo asíncrono
 - [ ] Mocking
 
-### Git y Github
-- [ ] Colaboración en Github
-- [ ] Organización en Github
+### Colaboración en Github
+
+- [ ] Branches
+- [ ] Pull Requests
+- [ ] Tags
+
+### Organización en Github
+
+- [ ] Projects
+- [ ] Issues
+- [ ] Labels
+- [ ] Milestones
 
 ### Buenas prácticas de desarrollo
 - [ ] Modularización
-- [ ] Componentes
 - [ ] Nomenclatura / Semántica
 - [ ] Linting
 
